@@ -57,7 +57,7 @@ Revenue Comparison, ROI comparison, conversion comparison and funnel chart
 4. Low CTR indicates weak ad engagement. 
 5. Funnel analysis shows major drop off at click stage. 
 
-🧠 **Conclusion**
+###### 🧠 Conclusion
 The dashboard successfully transforms raw marketing data into actionable insights. It enables stakeholders to evaluate campaign performance, understand customer behaviour and optimize marketing strategies. 
 
 📝 **Feedback Welcome**

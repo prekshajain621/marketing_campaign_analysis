@@ -11,7 +11,8 @@ Tools Used:- Excel, SQL, Power BI
    - Handling null/ missing values
    - inconsistent categorical values
    - Standardized numeric format
-<a> 🔗 clean data.xlsx </a>
+     
+🔗<a>clean data.xlsx</a>
 
 **2. Data Preprocessing**
    - Creating new columns such as CTR, CPC and Conversion Rate in campaign data

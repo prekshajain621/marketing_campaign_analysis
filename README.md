@@ -12,7 +12,7 @@ Tools Used:- Excel, SQL, Power BI
    - inconsistent categorical values
    - Standardized numeric format
      
-🔗<a>clean data.xlsx</a>
+🔗[Clean Data](https://1drv.ms/x/c/2a44848ee1143b00/IQBYI9MzSLyDQouLzbftyhrNAapUpJhWaS2BZ7vtBTR3dtk?e=wGxUn5)
 
 **2. Data Preprocessing**
    - Creating new columns such as CTR, CPC and Conversion Rate in campaign data

@@ -17,7 +17,7 @@ Tools Used:- Excel, SQL, Power BI
 **2. Data Preprocessing**
    - Creating new columns such as CTR, CPC and Conversion Rate in campaign data
 
-**DATASET USED:- **
+**DATASET USED:-**
 The dataset contains customer-level and marketing campaign data including-
 1. Impressions, Clicks, Conversions, Cost 
 2. Products (Wines, Fruits, Meat, Fish, Sweets, Gold)

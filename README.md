@@ -58,8 +58,11 @@ Revenue Comparison, ROI comparison, conversion comparison and funnel chart
 5. Funnel analysis shows major drop off at click stage. 
 
 🧠 **Conclusion**
-CONCLUSION:- The dashboard successfully transforms raw marketing data into actionable insights. It enables stakeholders to evaluate campaign performance, understand customer behaviour and optimize marketing strategies. 
+The dashboard successfully transforms raw marketing data into actionable insights. It enables stakeholders to evaluate campaign performance, understand customer behaviour and optimize marketing strategies. 
 
 📝 **Feedback Welcome**
 Thank you for exploring the campaign sales performance dashboard 
 if you have any suggestions, improvemnets in my project feel free to interact with me open to all ideas for improvement. 
+
+**License**
+You can use this dataset to build your own projects and practice your data analytic skills.
